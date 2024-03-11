@@ -1,3 +1,7 @@
+# srt 1.0.4
+
+* Update maintainer email, website URL, and GitHub URL.
+
 # srt 1.0.3
 
 * Remove consecutive newlines in character vector before parsing subtitles (#3).
